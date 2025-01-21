@@ -3,14 +3,14 @@
 </div>
 
 <div style="line-height: 1; margin-top: 15px;">
-<p align="center" style="font-weight: 600; font-size: 32px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">komako</p>
+<h1 align="center" style="font-weight: 600; font-size: 32px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">komako</h1>
 
-<p align="center"font-size: 20px;  font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">a renewed way to experience osu!</p>
+<h2 align="center"font-size: 20px;  font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">a renewed way to experience osu!</h2>
 </div>
 
 <div align="center" style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <a href="https://komako.pw" style="text-decoration: none;">WEBSITE</a> &nbsp;//&nbsp; 
-  <a href="https://twitter.com/lionzosu" style="text-decoration: none;">TWITTER</a>
+  &nbsp;(&nbsp; <a href="https://komako.pw" style="text-decoration: none;">WEBSITE</a> &nbsp;|&nbsp; 
+  <a href="https://twitter.com/lionzosu" style="text-decoration: none;">TWITTER</a> &nbsp;)&nbsp;
 </div>
 
 <br>
